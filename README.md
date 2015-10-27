@@ -34,7 +34,7 @@ ImageResize is a Java API used by [FIMS](https://github.com/isl/FIMS) to resize 
 
 Build - Run
 ====
-Folder src and lib contain all the files needed to build and create a jar file.
+Folder src contain all the files needed to build and create a jar file. This project is a Maven project, providing all the libs in pom.xml.
 
 Usage
 ====
